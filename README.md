@@ -1,4 +1,4 @@
-# prova3-poo
+# Programação Orientada a Objeto - Prova 3
 Prova 3 - Programação Orientada a Objetos C++
 
 ## Para compilar utilizei o seguinte comando para gerar o executável:
