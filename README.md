@@ -1,8 +1,8 @@
 # prova3-poo
 Prova 3 - Programação Orientada a Objetos C++
 
-# Para compilar utilizei o seguinte comando para gerar o executável:
+## Para compilar utilizei o seguinte comando para gerar o executável:
 g++ teste.cpp Retangulo.cpp retangulo.h -o programa_retangulo 
 
-# Para rodar o executável:
+## Para rodar o executável:
 ./programa_retangulo
